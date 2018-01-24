@@ -1,0 +1,8 @@
+1. MEL, Python, C++, PyMEL.
+2. Click on Script Editor and click on Python. Click on MEL on the left bottom corner to switch to Python, type idle in Terminal.
+3. Version 2.7.10
+4. # Error: invalid syntax #
+
+Create: Make a new object.
+Query: Use to define an objects attributes.
+Edit: Make changes to existing object.
