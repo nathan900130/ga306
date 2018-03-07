@@ -1,5 +1,5 @@
 import maya.cmds as cmds
-reload(Spike)
+#reload(Spike)
 import Spike
 
 def create_car(name, length=2, width=1):
@@ -63,3 +63,4 @@ myCube = maya.cmds.polyCube()[0]
 
 maya.cmds.connectAttr(myCube+'.rx', name+'.tz')
 maya.cmds.connectAttr(myCube+'.rz', name+'.tx')
+
